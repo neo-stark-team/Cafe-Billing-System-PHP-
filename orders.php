@@ -28,8 +28,6 @@
 				<div class="card">
 					<div class="card-header">
 						<b>List of Orders </b>
-						<span class="float:right"><a class="btn btn-primary btn-block btn-sm col-sm-2 float-right" href="javascript:void(0)" id="new_order">
-					<i class="fa fa-plus"></i> New 
 				</a></span>
 					</div>
 					<div class="card-body">
